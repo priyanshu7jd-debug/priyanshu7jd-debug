@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Priyanshu Deka 👋
 
-<!--
-**priyanshu7jd-debug/priyanshu7jd-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+💻 **My Skills & Interests**
+- 🤖 AI & Machine Learning
+- 🔐 Cybersecurity & Ethical Hacking
+- 🌐 Full-Stack Development
+- 🧠 DSA using C++
+- 🐍 Python Programming
+- 🗄️ MySQL & MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building projects, solving problems, and learning new technologies.
+
+🎯 **Goal:** Build real-world projects and contribute to open source.
+
+🤝 Let's connect and grow together!
+
+🔗 GitHub: [@priyanshu7jd-debug](https://github.com/priyanshu7jd-debug)
